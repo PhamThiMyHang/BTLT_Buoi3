@@ -1,0 +1,54 @@
+th.id001{
+    width: 700px;
+    background-color: red;
+    color: aliceblue;
+    text-align: right;
+    font-weight: bold;
+    font-size: small;
+}
+th.id002{
+    text-align: center;
+    background-color: pink;
+    color: red;
+    font-weight: bold;
+    padding-bottom: 0.3cm;
+    padding-top: 0.3cm;
+    padding-left: 2cm;
+    padding-right: 2cm;
+}
+th,td{
+    border: 1;
+    border-color: red;
+    border-width: 1px;
+    border-style: solid;
+}
+ul.id003::marker{
+    list-style-type: square;
+    color: red;
+}
+ul.id003{
+    text-align: left;
+    font-weight: bold;
+    color: red;
+}
+ul.id004{
+    text-align: left;
+    color:black;
+}
+ul.id004::marker{
+    list-style-type: circle;
+    color: black;
+}
+ul.id005{
+    text-align: left;
+    color:black;
+}
+ul.id005::marker{
+    list-style-type: decimal;
+    color: black;
+}
+table{
+    border-spacing: 0;
+    border: 1;
+    border-color: red;
+}
