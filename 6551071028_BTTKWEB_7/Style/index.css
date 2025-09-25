@@ -1,0 +1,31 @@
+caption{
+    color: red;
+    font-size: 1cm;
+    text-align: center;
+}
+table{
+    background-color:aquamarine;
+    border-spacing: 0;
+    text-align: center;
+}
+td,th{
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+td.class1{
+    color: black;
+    text-align: left;
+     border-color: black;
+}
+td.class2{
+    text-align: left;
+    border-color: black;
+}
+td.class3{
+    text-align: center;
+     border-color: black;
+}
+td.class4{
+    display: none;
+}
