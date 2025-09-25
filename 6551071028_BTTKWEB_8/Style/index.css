@@ -1,0 +1,41 @@
+caption{
+    color:green;
+    text-align: center;
+    font-weight: bold;
+    font-size: 0.5cm
+    ;
+}
+table{
+    background-color:aliceblue;
+    border-style: solid;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    padding-right: 0.5cm;
+    padding-left: 0;
+    color: green;
+}
+td,th{
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+td.class1{
+    text-align: left;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 0.5cm;
+    padding-right: 0;
+}
+td.class2{
+    text-align: left;
+    padding-right: 0.5cm;
+    padding-left: 0;
+}
+td.class3{
+    color: purple;
+    text-align: center;
+}
+td.class4{
+    text-align: center;
+}
