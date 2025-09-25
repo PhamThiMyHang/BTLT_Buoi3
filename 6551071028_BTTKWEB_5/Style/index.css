@@ -1,0 +1,31 @@
+caption{
+    font-weight: bolder;
+    font-size: 0.5cm;
+    color: red;
+    font-size: 1cm;
+}
+th{
+    border: 1px;
+    border-style: solid;
+    border-color: orangered;
+    font-weight: bold;
+    background-color: red;
+    color:aliceblue;
+    padding-left: 1cm;
+    padding-left: 1cm;
+    padding-bottom: 0.3cm;
+    padding-top: 0.3cm;
+}
+td{
+    border: 1px;
+    border-style: solid;
+    border-color: orangered;
+    padding: 1em;
+    color: black;
+}
+#id001{
+    color: red;
+}
+table{
+    border-spacing: 0;
+}
