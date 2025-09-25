@@ -1,0 +1,19 @@
+h1{
+    font-weight: bolder;
+    color: red;
+}
+#id002{
+    list-style-type:decimal;
+    color: blue;
+
+}
+#id001{
+    list-style-type: upper-roman ;
+    color:red;
+}
+li::marker{
+    color: blue;
+}
+p{
+    color: blue;
+}
